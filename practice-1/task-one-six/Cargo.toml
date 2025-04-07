@@ -1,0 +1,11 @@
+[package]
+name = "task-one-six"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+base58 = "0.2.0"
+dotenvy = "0.15.7"
+serde_json = "1.0.140"
+solana-client = "2.2.6"
+solana-sdk = "2.2.2"
